@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-is-absolute-http-uri",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Test whether a value is an absolute HTTP(S) URI.",
   "license": "Apache-2.0",
   "author": {
