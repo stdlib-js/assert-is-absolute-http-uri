@@ -1,0 +1,42 @@
+{
+  "name": "@stdlib/assert-is-absolute-http-uri",
+  "version": "0.0.0",
+  "description": "Test whether a value is an absolute HTTP(S) URI.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/assert-is-absolute-http-uri.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdassert",
+    "assertion",
+    "assert",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "url",
+    "uri",
+    "is",
+    "isurl",
+    "isuri",
+    "isvalid",
+    "absolute",
+    "abs",
+    "http",
+    "https",
+    "check",
+    "valid",
+    "validate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
