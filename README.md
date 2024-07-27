@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isAbsoluteHttpURI from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-absolute-http-uri@deno/mod.js';
+import isAbsoluteHttpURI from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-absolute-http-uri@v0.2.2-deno/mod.js';
 ```
 
 #### isAbsoluteHttpURI( value )
@@ -93,7 +93,7 @@ bool = isAbsoluteHttpURI( './beep/boop' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isAbsoluteHttpURI from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-absolute-http-uri@deno/mod.js';
+import isAbsoluteHttpURI from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-absolute-http-uri@v0.2.2-deno/mod.js';
 
 var bool = isAbsoluteHttpURI( 'https://www.google.com/' );
 // returns true
