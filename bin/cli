@@ -30,7 +30,7 @@ var stdinStream = require( '@stdlib/streams-node-stdin' );
 var RE_EOL = require( '@stdlib/regexp-eol' ).REGEXP;
 var isRegExpString = require( '@stdlib/assert-is-regexp-string' );
 var reFromString = require( '@stdlib/utils-regexp-from-string' );
-var isAbsoluteHttpURI = require( './../lib' );
+var isAbsoluteHttpURI = require( '@stdlib/assert-is-absolute-http-uri' );
 
 
 // MAIN //
