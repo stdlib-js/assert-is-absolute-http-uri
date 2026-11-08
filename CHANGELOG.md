@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-03)
+## Unreleased (2026-11-08)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`372697e`](https://github.com/stdlib-js/stdlib/commit/372697e808d16695860fe164faa3c468998bfb13) - accept uppercase schemes [(#16544)](https://github.com/stdlib-js/stdlib/pull/16544)
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`372697e`](https://github.com/stdlib-js/stdlib/commit/372697e808d16695860fe164faa3c468998bfb13) - **fix:** accept uppercase schemes [(#16544)](https://github.com/stdlib-js/stdlib/pull/16544) _(by Rajan Pantha)_
 -   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 
 </details>
@@ -24,9 +35,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Philipp Burckhardt
+-   Rajan Pantha
 
 </section>
 
